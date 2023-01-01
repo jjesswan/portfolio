@@ -136,6 +136,7 @@ body {
     align-items: center;
 
     padding-left: 60px;
+    padding-top: 10px;
 
 
     user-drag: none;
@@ -175,7 +176,7 @@ body {
 .header {
     /* grid-column: 1;
     grid-row: 1; */
-    width: 100%;
+    width: 90%;
     
     padding: 60px;
     text-align: left;

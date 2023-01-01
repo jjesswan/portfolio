@@ -291,20 +291,26 @@ img.num {
     margin-right: 28%;
 }
 
+form {
+    text-align : center;
+}
+
 
 .learnbutton2{
-    width: 200%;
+    
     height: 30px;
     border-radius: 10px;
     border:none;
+    margin: 0 auto;
+
 
     padding: 2px;
+    padding-right: 50px;
+    padding-left: 50px;
     text-align: center;
 
     text-transform: uppercase;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+   
 
     text-decoration: none;
     font-size: 1rem;

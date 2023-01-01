@@ -39,7 +39,7 @@ h1{
     font-weight: 1300;
     font-size: 3.5rem;
     line-height: 90%;
-    color:#4F7EC4;
+    color:#778f6f;
 }
 
 h2{
@@ -188,7 +188,7 @@ body {
 }
 
 .header {
-    width: 100%;
+    width: 80%;
     
     padding: 60px;
     padding-left: 100px;

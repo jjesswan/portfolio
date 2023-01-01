@@ -360,19 +360,26 @@ img.num {
 }
 
 
+form {
+    text-align : center;
+}
+
+
 .learnbutton2{
-    width: 200%;
+    
     height: 30px;
     border-radius: 10px;
     border:none;
+    margin: 0 auto;
+
 
     padding: 2px;
+    padding-right: 50px;
+    padding-left: 50px;
     text-align: center;
 
     text-transform: uppercase;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+   
 
     text-decoration: none;
     font-size: 1rem;
@@ -383,7 +390,7 @@ img.num {
     font-weight: 1000;
 
     color: rgb(255, 255, 255);
-    background-image: linear-gradient(to right, rgb(29, 116, 166), rgb(105, 145, 186),rgb(126, 219, 213) );
+    background-image: linear-gradient(to right, rgb(120, 194, 86), rgb(105, 186, 121),rgb(126, 180, 219) );
 
 
     cursor: pointer;
